@@ -6,8 +6,8 @@ data()
    return {
        title: 'Mohammad Owais Khan',
        major: 'Computer Engineering',
-       school: 'Ghulam Ishaq Khan Institute of engineering sciences & Technology'
-
+       school: 'Ghulam Ishaq Khan Institute of engineering sciences & Technology',
+       age: 20
    }
 }
 
