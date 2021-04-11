@@ -19,9 +19,13 @@
         <p>School: {{school}}</p>
         <p>The age of the student is: {{age}}</p>
 
-        <button v-on:click = "age++ ">Increase Age</button>
+        <button @click = "age++ ">Increase Age</button>
         <br><br>
-        <button v-on:click = "age--">Decrease Age</button>
+        <button @click = "age--">Decrease Age</button>
+        <br> <br>
+
+        <button @click =" change" >Change Student Name </button>
+         
 
 
     </div>
