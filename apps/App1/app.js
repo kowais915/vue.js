@@ -22,7 +22,7 @@ methods: {
     //         this.title = student[i];
     //     }
 
-    var name = window.prompt("Enter the name of the studetn: ")
+    var name = window.prompt("Enter the name of the student: ")
     var majoruser =window.prompt("Enter the major of the student: ")
     var ageuser = window.prompt("Enter the age of the student: ")
 
